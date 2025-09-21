@@ -3,6 +3,6 @@ using namespace std;
 typedef long long ll;
 
 int main(){
-cout<<"The End"<<endl;
+cout<<"RUET"<<endl;
 return 0;
 }
